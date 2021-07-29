@@ -17,3 +17,12 @@ img:hover {
     cursor: pointer;
     transition: .3s;
   }
+  /* happy clients section */
+  span{
+     color: #e76f51; 
+  }
+  .fa-star{
+      color: #e76f51;
+  }
+ /* freequently asked section */
+ 

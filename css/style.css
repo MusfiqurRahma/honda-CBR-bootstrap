@@ -5,3 +5,15 @@
 .btn-bg-color{
    background-color: #e76f51; 
 }
+/* gray scale section */
+.img-gray-scale {
+    filter: gray;
+    -webkit-filter: grayscale(1); 
+    filter: grayscale(1);
+  }
+img:hover {
+    -webkit-filter: grayscale(0);
+    filter: none;
+    cursor: pointer;
+    transition: .3s;
+  }

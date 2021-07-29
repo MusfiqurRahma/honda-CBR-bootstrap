@@ -26,10 +26,7 @@ img:hover {
   }
  /* bike gallery */
  .transition-hover{
-  border-style: solid;
-  border-width: 1px;
   display: block;
-  background-color: #0000FF;
   transition: transform .3s;
  }
  .transition-hover:hover{

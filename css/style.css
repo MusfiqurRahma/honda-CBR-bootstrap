@@ -5,6 +5,18 @@
 .btn-bg-color{
    background-color: #e76f51; 
 }
+/* featured bike section */
+.margin::after{
+  content: '';
+  background-color: #de3545;
+  height: 2px;
+  width: 5%;
+  display: block;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 100px;
+
+}
 /* gray scale section */
 .img-gray-scale {
     filter: gray;
